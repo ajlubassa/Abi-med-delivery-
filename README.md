@@ -1,4 +1,4 @@
-# ABI Med delivery
+# WakaMed
 
 Interactive client demonstration of medicine ordering, prescription requests, doctor appointment booking and role dashboards.
 
